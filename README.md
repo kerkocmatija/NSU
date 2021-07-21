@@ -8,7 +8,7 @@ It consists of 4 homeworks from four different machine learning topics:
 3. Learning from complex data types,
 4. Equation discovery and symolic regression.
 
-# Overview of content:
+# Content overview
 
 1. Meata-learning:
   - classic meta-learning,
