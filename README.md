@@ -1,5 +1,5 @@
 # ADVANCED MACHINE LEARNING
-# (Napredno strojno učenje)
+## (Napredno strojno učenje)
 
 Homework for the course "Napredno strojno učenje" held at Faculty of mathematics and physics in academic year 2020/21 .
 
@@ -11,7 +11,8 @@ It consists of 4 homeworks from four different machine learning topics:
 4. Equation discovery and symolic regression.
 
 
-# Content overview
+
+## Content overview
 
 1. Meata-learning:
   - classic meta-learning,
@@ -24,7 +25,9 @@ It consists of 4 homeworks from four different machine learning topics:
   - Properties of data streams and learning limitations,
   - ...
 
-# Homework overview
+
+
+## Homework overview
 
 1. Auto-ML:
   - Using Auto-ML to find optimal parameter for a task.
