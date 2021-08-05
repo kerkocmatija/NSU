@@ -3,13 +3,15 @@
 
 Homework for the course "Napredno strojno učenje" held at Faculty of mathematics and physics in academic year 2020/21 .
 
-It consists of 4 homeworks from four different machine learning topics:
+It consists of 4 homeworks from five different machine learning topics:
 
 1. Meta-learning,
 2. Learning from data streams,
 3. Learning from complex data types,
 4. Equation discovery and symolic regression,
 5. Other topics.
+
+All code is written in Python with use of Jupyter notebook.
 
 
 ## Content overview
