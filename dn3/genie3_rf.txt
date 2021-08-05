@@ -1,0 +1,14 @@
+Attributes
+coach_season_team[Y,X] :  4.04775e-01 ; iterations: [ 8.52238e-02 ,  7.77006e-02 ,  7.77006e-02 ,  7.71902e-02 ,  8.69599e-02 ]
+team_season_o_asts[X,Y]:  8.15972e-03 ; iterations: [ 8.15972e-03 ,  0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ]
+team_season_won[X,Y]   :  7.54438e-03 ; iterations: [ 0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ,  7.54438e-03 ,  0.00000e+00 ]
+
+Attributes summed
+coach_season_team      :  4.04775e-01 ; iterations: [ 8.52238e-02 ,  7.77006e-02 ,  7.77006e-02 ,  7.71902e-02 ,  8.69599e-02 ]
+team_season_o_asts     :  8.15972e-03 ; iterations: [ 8.15972e-03 ,  0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ]
+team_season_won        :  7.54438e-03 ; iterations: [ 0.00000e+00 ,  0.00000e+00 ,  0.00000e+00 ,  7.54438e-03 ,  0.00000e+00 ]
+
+Aggregators
+count                  :  4.04775e-01 ; iterations: [ 8.52238e-02 ,  7.77006e-02 ,  7.77006e-02 ,  7.71902e-02 ,  8.69599e-02 ]
+sum                    :  1.57041e-02 ; iterations: [ 8.15972e-03 ,  0.00000e+00 ,  0.00000e+00 ,  7.54438e-03 ,  0.00000e+00 ]
+

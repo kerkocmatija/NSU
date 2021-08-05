@@ -1,0 +1,48 @@
+Tree 1:
+Tree for teams_league, ['X0']:
+  IF ('coach_season_team', ['Y1', 'X0'], count) > 0.5:
+  YES
+    IF ('team_season_o_asts', ['X0', 'Y2'], sum) > 1161.5:
+    YES
+      return N (['A', 'N']: [0, 47])
+    NO
+      return A (['A', 'N']: [1, 0])
+  NO
+    return A (['A', 'N']: [24, 0])
+
+Tree 2:
+Tree for teams_league, ['X0']:
+  IF ('coach_season_team', ['Y1', 'X0'], count) > 0.5:
+  YES
+    return N (['A', 'N']: [0, 53])
+  NO
+    return A (['A', 'N']: [19, 0])
+
+Tree 3:
+Tree for teams_league, ['X0']:
+  IF ('coach_season_team', ['Y1', 'X0'], count) > 0.5:
+  YES
+    return N (['A', 'N']: [0, 53])
+  NO
+    return A (['A', 'N']: [19, 0])
+
+Tree 4:
+Tree for teams_league, ['X0']:
+  IF ('coach_season_team', ['Y1', 'X0'], count) > 0.5:
+  YES
+    IF ('team_season_won', ['X0', 'Y2'], sum) > 13.0:
+    YES
+      return N (['A', 'N']: [0, 51])
+    NO
+      return A (['A', 'N']: [1, 0])
+  NO
+    return A (['A', 'N']: [20, 0])
+
+Tree 5:
+Tree for teams_league, ['X0']:
+  IF ('coach_season_team', ['Y1', 'X0'], count) > 0.5:
+  YES
+    return N (['A', 'N']: [0, 49])
+  NO
+    return A (['A', 'N']: [23, 0])
+
