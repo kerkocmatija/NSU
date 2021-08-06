@@ -45,9 +45,9 @@ All code is written in Python with use of Jupyter notebook.
 
 5. Other topics:
   - deep learnig,
-  - unsupervised learning, 
+  - unsupervised learning (autoencoders), 
   - genrative models (GAN),
-  - course of dimensionality.
+  - curse of dimensionality.
 
 
 
