@@ -57,9 +57,12 @@ All code is written in Python with use of Jupyter notebook.
   - Using Auto-ML to find optimal parameter for a task.
 
 2. Data streams:
+  - Using MOA to analyze given data.
 
 3. Complex data types:
+  - Using re3py to analyze given datasets.
 
 4. Equation discovery:
+  - Usig PROGED to find equations.
 
 ...
